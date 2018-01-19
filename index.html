@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>IUCN Red List Amazing Species</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Nunito:200,300,400'>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<main id="app" class="content">
+    <br>
+    <h1 style="color: #c33; text-align: center">IUCN Red List Amazing Species</h1>
+    <nav class="nav">
+        <menu class="nav__controls">
+            <svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="nav__icon">
+                <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"></path>
+            </svg>
+            <li v-for="(active, menu) in menus" class="nav__label" :class="{'nav__label--active':active,'nav__label--filter':activeFilters[menu].length}" @click="setMenu(menu, active)">
+                {{ menu }}
+            </li>
+            <li class="nav__label nav__label--clear" @click="clearAllFilters">Clear all</li>
+        </menu>
+        <label class="nav__label" @click="modal = !modal">About</label>
+    </nav>
+
+    <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
+        <menu v-for="(options, filter) in filters" class="filters" v-show="menus[filter]" ref="menu" :key="filter">
+            <li v-for="(active, option) in options" class="filters__item" :class="{ 'filters__item--active': active }" @click="setFilter(filter, option)">
+                {{ option }}
+            </li>
+        </menu>
+    </transition-group>
+
+    <transition-group name="specie" tag="ul" class="content__list">
+        <li class="specie" v-for="specie in list" :key="specie.id">
+            <div class="specie__info">
+                <div class="specie__status" :style="colors[specie.status]" @click="setFilter('status', specie.status)">{{ specie.status }}</div>
+                <img :src="'img/' + specie.id + '.jpg'" class="specie__image" @click="setFilter('group', specie.group)"/>
+                <h2 class="specie__name"><a :href="'http://apiv3.iucnredlist.org/api/v3/website/'+specie.name" target="_blank">{{ specie.name }}</a></h2>
+            </div>
+        </li>
+    </transition-group>
+</main>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js'></script>
+<script src="js/index.js"></script>
+</body>
+</html>
