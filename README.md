@@ -1,2 +1,2 @@
-# IUCN_Red_List_Amazing_Species
-A proj4 rebuilding the IUCN Red List Amazing Species.
+# IUCN_Red_List_Visualization
+A proj4 visulizes the species facing a risk of extinction and their stories.
