@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2af461-6578-4b03-948b-39c5f72b6b27" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ad.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ae.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/af.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ai.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/al.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/am.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ao.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/aq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/as.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/at.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/au.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/aw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ax.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/az.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ba.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/be.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bj.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/br.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/by.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/bz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ca.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ch.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ci.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ck.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/co.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cx.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/cz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/de.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/dj.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/dk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/dm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/do.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/dz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ec.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ee.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/eg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/eh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/er.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/es.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/et.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fj.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/fr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ga.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gb-eng.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gb-nir.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gb-sct.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gb-wls.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ge.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/gy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/hk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/hm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/hn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/hr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ht.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/hu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/id.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ie.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/il.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/im.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/in.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/io.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/iq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ir.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/is.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/it.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/je.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/jm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/jo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/jp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ki.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/km.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ky.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/kz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/la.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/li.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ls.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/lv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ly.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ma.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/md.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/me.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ml.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ms.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mx.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/my.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/mz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/na.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ne.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ng.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ni.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/np.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/nz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/om.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pa.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ph.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ps.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/pw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/py.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/qa.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/re.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ro.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/rs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ru.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/rw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sa.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/se.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/si.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sj.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/so.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ss.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/st.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sx.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/sz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/td.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/th.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tj.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/to.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tv.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/tz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ua.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ug.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/um.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/undefined.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/us.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/uy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/uz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/va.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/vc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ve.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/vg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/vi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/vn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/vu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/wf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ws.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/xk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/ye.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/yt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/za.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/zm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/country-flags-svg/zw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/undefined.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/d3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/topojson.v3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/world-110m.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazing-species.json" afterPath="$PROJECT_DIR$/amazing-species.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="41" column="137" lean-forward="false" selection-start-line="41" selection-start-column="137" selection-end-line="41" selection-end-column="137" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="361" column="1" lean-forward="false" selection-start-line="361" selection-start-column="1" selection-end-line="361" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="107" column="3" lean-forward="false" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>/usr/local/bin/bower</exe-path>
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="211" />
+    <option name="y" value="104" />
+    <option name="width" value="1400" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IUCN_Red_List_Amazing_Species" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IUCN_Red_List_Amazing_Species" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IUCN_Red_List_Amazing_Species" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IUCN_Red_List_Amazing_Species" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IUCN_Red_List_Amazing_Species" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IUCN_Red_List_Amazing_Species" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v8.9.0/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.0" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2af461-6578-4b03-948b-39c5f72b6b27" name="Default" comment="" />
+      <created>1517895587658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517895587658</updated>
+      <workItem from="1517895590417" duration="2870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2870000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="24" width="1922" height="1033" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1797575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="361" column="1" lean-forward="false" selection-start-line="361" selection-start-column="1" selection-end-line="361" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="41" column="137" lean-forward="false" selection-start-line="41" selection-start-column="137" selection-end-line="41" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="107" column="3" lean-forward="false" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
